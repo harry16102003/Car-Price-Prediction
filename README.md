@@ -2,7 +2,7 @@
 
 A web application built with Streamlit to predict the selling price of used cars using a machine learning model.
 
-![Car Price Prediction App Demo](screenshot)
+![Car Price Prediction App Demo](screenshot/1)
 
 ---
 
