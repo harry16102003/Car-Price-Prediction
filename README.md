@@ -84,7 +84,7 @@ streamlit run app.py
 The application should now be open and running in your web browser!
 
 👨‍💻 About Me
-Hello! I'm Harsh Bandal, a passionate developer and data enthusiast. I enjoy building projects that solve real-world problems.
+Hello! My name is Harsh Bandal, a passionate developer and data enthusiast. I enjoy building projects that solve real-world problems.
 
 GitHub: https://github.com/harry16102003
 
