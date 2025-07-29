@@ -97,9 +97,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-```text
-# requirements.txt
-streamlit
-pandas
-scikit-learn
-numpy
